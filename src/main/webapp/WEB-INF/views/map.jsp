@@ -48,6 +48,9 @@ window.initMap = function () {
 
 		  map.fitBounds(bounds);
 		};
+		
+		
+		
 
 	
 </script>
@@ -57,6 +60,8 @@ window.initMap = function () {
 
 	<div id = "map" style="height: 600px;"></div>
 	<h1>지도 나타내는 중 테스트 중 </h1>
+	<br>
+	<h2> A는 중앙학원</h2>
 	
 	
 	
